@@ -1,0 +1,20 @@
+.qty input[type=number] {
+    width: 70px;
+    text-align: right;
+    padding-right: 5px;
+    border-radius: 3px;
+    box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2); 
+  }
+  
+  #price, .add {
+    width: 100px;
+    text-align: center;
+  }
+  
+  .table {
+    table-layout: auto;
+  }
+  
+  #item {
+    max-width: 200px;
+  }
