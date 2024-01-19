@@ -1,0 +1,31 @@
+#sidebar-list {
+    padding-left: 0;
+}
+.bullet {
+    padding: 20px 0;
+    font-size: 16px;
+    color: #FF0500;
+    list-style-position: inside;
+    list-style-type: square;
+    border-bottom: 1px solid #bbb;
+}
+.headlines-title {
+  color: red;  
+}
+.see-all-headlines {
+    background-color: #e5e5e5;
+    color: #757575;
+    font-size: 16px;
+    line-height: 50px;
+    display: block;
+    text-align: center;
+    width: 100%;
+}
+
+@media (max-width: 992px){
+    .grey-background {
+        background-color: #ddd;
+        padding: 20px;
+        text-align: center;
+    }
+}
